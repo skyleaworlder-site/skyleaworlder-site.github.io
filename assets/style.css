@@ -1,0 +1,140 @@
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: Helvetica, Ariel, sans-serif;
+  font-size: 15px;
+}
+
+p.title {
+  margin: 0 0 5pt 0;
+}
+
+a,
+a:visited {
+  color: #1772d0;
+  text-decoration: none;
+}
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+strongless {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+li {
+  margin: 2px 0;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
+span.me {
+  color: #000000;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+div.title {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+div.conf {
+  font-size: 12px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+div.author {
+  font-size: 12px;
+  color: #777777;
+  margin-bottom: 5px;
+}
+div.what-i-do {
+  font-size: 14px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+div.author a:link,
+div.author a:visited {
+  color: #777777;
+  text-decoration: None;
+}
+div.author a:hover {
+  color: #f09228;
+  text-decoration: None;
+}
+div.material {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+
+span.title {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+span.conf {
+  font-size: 12px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+span.date {
+  font-size: 12px;
+  color: #777777;
+  margin-bottom: 5px;
+  float: right;
+}
+span.what-i-do {
+  font-size: 14px;
+  color: #000000;
+  margin-bottom: 5px;
+}
+span.author a:link,
+span.author a:visited {
+  color: #777777;
+  text-decoration: None;
+}
+span.author a:hover {
+  color: #f09228;
+  text-decoration: None;
+}
+span.material {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+div.row-new {
+  display: flex;
+  margin: 0 0 10pt 0;
+}
+
+div.col-sm-3 {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+div.col-sm-9 {
+  flex: 0 0 75%;
+  max-width: 75%;
+}
+
+li {
+  text-indent: 0pt;
+}
